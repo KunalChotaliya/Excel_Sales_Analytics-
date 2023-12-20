@@ -18,23 +18,28 @@ Utilized the formidable capabilities of Power Pivot and DAX to craft precise mea
 # Sales Report Highlights:
 ## 📈 Customer Behavior Analysis:
 Developed a detailed report shedding light on customer trends, laying the foundation for targeted strategies and service improvements.
-### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/Division%20Performance.pdf
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/New%20Products%20In%202021.pdf
 
 ## 🌐 Market Performance Examination:
 Conducted a comprehensive analysis of market performance against predetermined targets, identifying areas for refinement and strategic enhancement.
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/Division%20Performance.pdf
 
 ## 🌟 Top Performers Recognition:
 Identified and spotlighted the Top 10 performing products, offering valuable insights for agile inventory management and focused marketing efforts.
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/Top%2010%20Performers.pdf
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/Top%205%20%26%20Bottom%205%20Performers.pdf
 
 # Finance Report Insights:
 ## 💹 Detailed Profit and Loss Reports:
 Crafted intricate Profit and Loss (P&L) reports, providing a nuanced view of fiscal health across distinct Fiscal Years and Months.
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/P%20%26%20%20L%20by%20Fiscal%20Year.pdf
 
 ## 📊 Profitability Analysis by Quarters:
 Delved into profitability intricacies, analyzing Gross Margin Percentage (GM%) by quarters (subzone), offering actionable insights into financial nuances.
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/P%20%26%20L%20by%20Quaters.pdf
 
-A big shoutout to Dhaval Patel Sir and Hemanand Vadivel Sir !
+#### A big shoutout to Dhaval Patel Sir and Hemanand Vadivel Sir !
 
-Dhaval Patel Sir, your teaching approach is simply phenomenal! Your knack for breaking down complex concepts into digestible bits has made my learning experience in the "Excel: Mother of Business Intelligence" module at Codebasics truly enjoyable. Thank you for being an exceptional guide!
+#### Dhaval Patel Sir, your teaching approach is simply phenomenal! Your knack for breaking down complex concepts into digestible bits has made my learning experience in the "Excel: Mother of Business Intelligence" module at Codebasics truly enjoyable. Thank you for being an exceptional guide!
 
-Hemanand Vadivel Sir, your emphasis on the significance of domain knowledge, business insights, and functional understanding has been eye-opening. Your mentorship has not only enriched my analytical skills but has also provided a holistic perspective on data analytics.
+#### Hemanand Vadivel Sir, your emphasis on the significance of domain knowledge, business insights, and functional understanding has been eye-opening. Your mentorship has not only enriched my analytical skills but has also provided a holistic perspective on data analytics.
