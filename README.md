@@ -18,11 +18,12 @@ Utilized the formidable capabilities of Power Pivot and DAX to craft precise mea
 # Sales Report Highlights:
 ## 📈 Customer Behavior Analysis:
 Developed a detailed report shedding light on customer trends, laying the foundation for targeted strategies and service improvements.
+### https://github.com/KunalChotaliya/Excel_Sales_Analytics-/blob/main/Division%20Performance.pdf
 
 ## 🌐 Market Performance Examination:
 Conducted a comprehensive analysis of market performance against predetermined targets, identifying areas for refinement and strategic enhancement.
 
-##🌟 Top Performers Recognition:
+## 🌟 Top Performers Recognition:
 Identified and spotlighted the Top 10 performing products, offering valuable insights for agile inventory management and focused marketing efforts.
 
 # Finance Report Insights:
